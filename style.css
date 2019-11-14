@@ -1,0 +1,14 @@
+body {
+  background-color: grey;
+  font-family: serif;
+}
+h1, h2 {
+  color: black;
+  text-align: center;
+}
+img{
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 100px;
+}
